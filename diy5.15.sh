@@ -43,5 +43,5 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/passwall2
 # git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
 # git clone https://github.com/yichya/luci-app-xray.git package/luci-app-xray
 #helloword#
-git clone https://github.com/jerrykuku/lua-maxminddb.git  #git lua-maxminddb 依赖
-git clone https://github.com/jerrykuku/luci-app-vssr.git  
+git clone https://github.com/jerrykuku/lua-maxminddb.git  package/lua-maxminddb #git lua-maxminddb 依赖
+git clone https://github.com/jerrykuku/luci-app-vssr.git  package/vssr
