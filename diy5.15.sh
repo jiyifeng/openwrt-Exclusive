@@ -43,8 +43,4 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/passwall2
 # git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 # git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
 # git clone https://github.com/yichya/luci-app-xray.git package/luci-app-xray
-#helloword#
-git clone https://github.com/jerrykuku/lua-maxminddb.git  package/lean/lua-maxminddb #git lua-maxminddb 依赖
-git clone https://github.com/jerrykuku/luci-app-vssr.git  package/lean/vssr
-# tencentddns git clone https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns.git package/jiyifeng/tencentddns
-git clone https://github.com/TorBoxCode/luci-app-tencentddns.git package/jiyifeng/tencentddns
+
