@@ -46,3 +46,4 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/passwall2
 #helloword#
 git clone https://github.com/jerrykuku/lua-maxminddb.git  package/lean/lua-maxminddb #git lua-maxminddb 依赖
 git clone https://github.com/jerrykuku/luci-app-vssr.git  package/lean/vssr
+git clone https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns.git package/jiyifeng/tencentddns
